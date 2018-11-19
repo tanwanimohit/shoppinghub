@@ -4,7 +4,7 @@ Shopping Hub (Basically a Shopping Application) Developed in C Languages Using f
 Steps to Run the Project:
 
 Put All The files at one Place (Together)
-Make Two Folders Users and Products. // See Files for More Information
+Make Two Folders Users and Products. // I Have already Added in Repo. (Just Go and run the files and Have Fun!)
 
 Working :-
 There are two parts of Project 
